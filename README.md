@@ -32,4 +32,4 @@ The limitations of this dataset:
 -	The goal and pledged in the dataset are concluded, we are not able to see the detail of the funding coming from. So, we can’t analyze further to find out the exact reason of the successful or failed outcome.
 
 Recommendation for additional tables or graphs:
--	It would be better to display the distribution of the dataset and realize the correlation between outcomes and goal. Based on their outcome, we can calculate the measures of central tendency such as mode, median, mean as well as the measures of spread include range, variance, standard deviation, and quartiles. Furthermore, we can apply a graph, box plot, to illustrate those measures.
+-	It would be better to display the distribution of the dataset and realize the correlation between outcomes and goal. Based on their outcome, we can calculate the measures of central tendency such as mode, median, mean as well as the measures of spread include range, variance, standard deviation, and quartiles. Furthermore, we create a graph, box plot, to illustrate those measures.
